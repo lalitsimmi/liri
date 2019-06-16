@@ -30,7 +30,7 @@ switch (optionSwitch) {
 };
 
 
-// function twitter
+// function twitter update
 function twitter(userInput) {
     var params = { screen_name: userInput, count: 20 };
 
